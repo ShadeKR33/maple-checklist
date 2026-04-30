@@ -7,7 +7,7 @@
 
 ## 미리보기
 
-![체크리스트 화면](https://[유저네임].github.io/maple-checklist)
+![체크리스트 화면](https://shadekr33.github.io/maple-checklist/)
 
 <br>
 
